@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-redux-shop/static/css/main.371ccb3b.css",
+    "main.js": "/react-redux-shop/static/js/main.4a096c12.js",
+    "static/media/adidas_x_chris.png": "/react-redux-shop/static/media/adidas_x_chris.9d9f89f9ec2d4d4f573a.png",
+    "static/media/chris-mouse.png": "/react-redux-shop/static/media/chris-mouse.00429df2b79274219193.png",
+    "static/media/chris-coffee.png": "/react-redux-shop/static/media/chris-coffee.474486b3c04659678bb4.png",
+    "static/media/chris_mask.png": "/react-redux-shop/static/media/chris_mask.c224f40446d27e68d5e7.png",
+    "static/media/chris-tee.png": "/react-redux-shop/static/media/chris-tee.adcb477f2e6e07a407bc.png",
+    "static/media/chris.jpg": "/react-redux-shop/static/media/chris.0a6f0255bbc88443ee45.jpg",
+    "index.html": "/react-redux-shop/index.html",
+    "main.371ccb3b.css.map": "/react-redux-shop/static/css/main.371ccb3b.css.map",
+    "main.4a096c12.js.map": "/react-redux-shop/static/js/main.4a096c12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371ccb3b.css",
+    "static/js/main.4a096c12.js"
+  ]
+}
